@@ -1,0 +1,2 @@
+# JavascriptTraining
+Static projects
